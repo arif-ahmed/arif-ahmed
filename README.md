@@ -13,15 +13,7 @@ I'm **Arif Ahmed**, a passionate **Full-Stack .NET Software Engineer** with expe
   - **Frontend**: React, Angular, Blazor, HTML, CSS  
   - **Databases**: SQL Server, PostgreSQL, MongoDB  
   - **Cloud & DevOps**: Azure, AWS, Docker, Kubernetes, CI/CD  
-  - **Other Tools**: Git, GitHub Actions, Redis, RabbitMQ, GraphQL  
-
----
-
-## 📂 Featured Projects  
-- 🔹 **[Project 1](#)** – A full-stack application built with ASP.NET Core and React  
-- 🔹 **[Project 2](#)** – A real-time Blazor application with WebSockets  
-- 🔹 **[Project 3](#)** – A cloud-native microservices system deployed on Kubernetes  
-
+  - **Other Tools**: Git, GitHub Actions, Redis, RabbitMQ
 ---
 
 ## 📈 GitHub Stats  
