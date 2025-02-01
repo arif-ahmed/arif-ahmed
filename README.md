@@ -5,9 +5,15 @@ I'm **Arif Ahmed**, a passionate **Full-Stack .NET Software Engineer** with expe
 ---
 
 ## 🚀 About Me  
-- 🔹 **Experience**: 8+ years in full-stack .NET development  
-- 🔹 **Tech Stack**: C#, ASP.NET Core, Entity Framework, React, SQL Server, Azure, Docker  
-
+- 🔹 **Experience**: 8 years in full-stack .NET development  
+- 🔹 **Specialization**: Backend & frontend development, APIs, cloud computing, microservices  
+- 🔹 **Tech Stack**:  
+  - **Languages**: C#, JavaScript, TypeScript  
+  - **Backend**: ASP.NET Core, Entity Framework, Node.js  
+  - **Frontend**: React, Angular, Blazor, HTML, CSS  
+  - **Databases**: SQL Server, PostgreSQL, MongoDB  
+  - **Cloud & DevOps**: Azure, AWS, Docker, Kubernetes, CI/CD  
+  - **Other Tools**: Git, GitHub Actions, Redis, RabbitMQ
 ---
 
 ## 📊 GitHub Stats  
